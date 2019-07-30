@@ -1,3 +1,6 @@
 this br1 file created new branch
 
 and also merge with br2
+
+   after merging branch from br1 to br2
+       let see
